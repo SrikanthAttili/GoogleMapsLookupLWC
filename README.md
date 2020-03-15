@@ -1,1 +1,1 @@
-# GoogleMapsLookup
+# GoogleMapsLookupLWC
